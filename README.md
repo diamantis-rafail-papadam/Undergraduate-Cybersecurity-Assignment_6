@@ -6,4 +6,4 @@ In the "implementation.zip" file, you will find:
 - A bash script that you need to run as sudo user. (Use "sudo ./adblock.sh -help" for help)
 - A README file that explains the funcionality of the bash script.
 
-With the functionality implemented, you will be able to create a simple firewall in your ubuntu machine with the purpose of rejecting connection to unwanted hosts and IP addresses.
+With the functionality implemented, you will be able to create a simple firewall in your ubuntu machine with the purpose of rejecting connection to unwanted hosts and IP addresses. 
